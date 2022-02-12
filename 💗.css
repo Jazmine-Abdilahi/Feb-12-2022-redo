@@ -1,0 +1,19 @@
+/* VIDEO 62 - 66 */
+body {
+  background-color: #ffc0cb;
+  font-family: arial;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.first {
+  color: pink;
+}
+
+#your-name {
+  background-color: palegoldenrod;
+  border: 5px solid paleturquoise;
+}
